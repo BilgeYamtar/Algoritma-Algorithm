@@ -1,8 +1,9 @@
 # Algoritma-Algorithm
-Bir yazılım dili için en önemli iki şeyden bir tanesi.
+Bir yazılım dili için en önemli şey.
+Syntax'ına hakim olduğunuz bir yazılım dilinin asıl yapısı algoritma ile anlarsınız.
 
 - Algoritma Bilgilendirme Bölümü -
-Algoritma, belli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanan yoldur.* Bu yolu atlamak sakıncalıdır ve hatalar doğurabilir. Bir dilin algoritmasını öğrenmek gerçekten çok önemlidir ve atlanmaması gereken bir konudur.
+Algoritma, belli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanan yoldur. Bu yolu atlamak sakıncalıdır ve hatalar doğurabilir.
 
 Aşağıda bulunan linkler üzerinden algortima bilgilerinizi ölçebilir, geliştirebilir ve algoritma hakkında bilgi sahibi olabilirsiniz.
 
